@@ -1,1 +1,1 @@
-# Foodlog_App
+# Friend_App
